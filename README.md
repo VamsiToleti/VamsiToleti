@@ -134,11 +134,11 @@ Building solutions with Power Apps, Power Automate, Dynamics 365, React, and AI 
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/vamsi-toleti-72a9312b4/
 
-📧 Email: YOUR_EMAIL
+📧 Email: vamsiindia2003@gmail.com
 
-🌐 Portfolio: :contentReference[oaicite:0]{index=0}
+🌐 Portfolio: :https://vamsitoleti.github.io/vamsi-portfolio/
 
 ---
 
