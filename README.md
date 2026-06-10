@@ -9,10 +9,10 @@ Building solutions with Power Apps, Power Automate, Dynamics 365, React, and AI 
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href=" https://www.linkedin.com/in/vamsi-toleti-72a9312b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vamsiindia2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/vamsitoleti">
@@ -24,12 +24,11 @@ Building solutions with Power Apps, Power Automate, Dynamics 365, React, and AI 
 
 ## 👨‍💻 About Me
 
-- 💼 Graduate Engineer Trainee
+- 💼 Programmer Analyst Trainee
 - ⚡ Power Platform Developer
 - 🔹 Working with Power Apps, Power Automate & Dynamics 365
 - 🤖 Passionate about AI, Machine Learning & Automation
-- 🌱 Currently learning React, System Design & Advanced DSA
-- 🏏 Cricket enthusiast and CSK supporter
+- 🌱 Currently learning React & DSA
 - 📍 Hyderabad, India
 
 > "Learning. Building. Improving. Repeating."
