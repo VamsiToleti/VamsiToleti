@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vamsi Toleti</h1>
 
 <h3 align="center">
-Graduate Engineer Trainee • Power Platform Developer • AI Enthusiast
+Programmer Analyst Trainee • Power Platform Developer • AI Enthusiast
 </h3>
 
 <p align="center">
