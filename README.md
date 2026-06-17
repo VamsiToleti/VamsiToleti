@@ -84,7 +84,7 @@ Building solutions with Power Apps, Power Automate, Dynamics 365, React, and AI 
 - Pass/Fail validation
 - Dynamic student records management
 
-### 💳 Credit Card Fraud Detection
+### 💳 Intelligent Machine For Anomalous Transaction Of Credit Card
 - Machine Learning based fraud detection
 - Logistic Regression & Decision Trees
 - Streamlit Frontend
