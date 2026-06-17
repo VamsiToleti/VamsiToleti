@@ -26,9 +26,10 @@ Building solutions with Power Apps, Power Automate, Dynamics 365, React, and AI 
 
 - 💼 Programmer Analyst Trainee
 - ⚡ Power Platform Developer
+- ⚡ Microsoft Dynamics 365 CE
 - 🔹 Working with Power Apps, Power Automate & Dynamics 365
 - 🤖 Passionate about AI, Machine Learning & Automation
-- 🌱 Currently learning React & DSA
+- 🌱 Currently learning Dynamics Configuration and Customization
 - 📍 Hyderabad, India
 
 > "Learning. Building. Improving. Repeating."
